@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/alexanderwiebe/github/rowurboat/server2/ajdub-net-flashlight-server.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.0",
+    "LanguageVersion": "2.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.0"
+      }
+    ]
+  }
+}

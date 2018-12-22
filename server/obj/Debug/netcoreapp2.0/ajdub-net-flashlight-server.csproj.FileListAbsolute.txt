@@ -1,0 +1,11 @@
+/Users/alexanderwiebe/github/rowurboat/server2/bin/Debug/netcoreapp2.0/ajdub-net-flashlight-server.deps.json
+/Users/alexanderwiebe/github/rowurboat/server2/bin/Debug/netcoreapp2.0/ajdub-net-flashlight-server.runtimeconfig.json
+/Users/alexanderwiebe/github/rowurboat/server2/bin/Debug/netcoreapp2.0/ajdub-net-flashlight-server.runtimeconfig.dev.json
+/Users/alexanderwiebe/github/rowurboat/server2/bin/Debug/netcoreapp2.0/ajdub-net-flashlight-server.dll
+/Users/alexanderwiebe/github/rowurboat/server2/bin/Debug/netcoreapp2.0/ajdub-net-flashlight-server.pdb
+/Users/alexanderwiebe/github/rowurboat/server2/obj/Debug/netcoreapp2.0/ajdub-net-flashlight-server.csprojAssemblyReference.cache
+/Users/alexanderwiebe/github/rowurboat/server2/obj/Debug/netcoreapp2.0/ajdub-net-flashlight-server.csproj.CoreCompileInputs.cache
+/Users/alexanderwiebe/github/rowurboat/server2/obj/Debug/netcoreapp2.0/ajdub-net-flashlight-server.AssemblyInfoInputs.cache
+/Users/alexanderwiebe/github/rowurboat/server2/obj/Debug/netcoreapp2.0/ajdub-net-flashlight-server.AssemblyInfo.cs
+/Users/alexanderwiebe/github/rowurboat/server2/obj/Debug/netcoreapp2.0/ajdub-net-flashlight-server.dll
+/Users/alexanderwiebe/github/rowurboat/server2/obj/Debug/netcoreapp2.0/ajdub-net-flashlight-server.pdb
