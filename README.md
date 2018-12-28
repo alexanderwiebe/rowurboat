@@ -7,11 +7,11 @@ The products that I'll be using for this project are as follows:
 * <a target="_blank" href="https://www.amazon.ca/gp/product/B00NH11KIK/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B00NH11KIK&linkCode=as2&tag=ajdub-20&linkId=50dfdb7df86437b81a241b2ece0a96ac">AmazonBasics USB 2.0 Cable - A-Male to B-Male - 6 Feet (1.8 Meters)</a><img src="//ir-ca.amazon-adsystem.com/e/ir?t=ajdub-20&l=am2&o=15&a=B00NH11KIK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Technologies I plan on using are:
-* ~WebSockets likely <a target="_blank" href="https://github.com/HenningM/express-ws">Express-WS</a>~
-* ~Express server~
-* switchted to dotnet core websockets (I wanted 1 server with rest & websockets)
-* Angular + NGRX client
-* <a target="_blank" href="https://github.com/uvd/PyRow">PyRow</a>
+* <a target="_blank" href="https://github.com/expressjs/express">Express</a> server
+* <a target="_blank" href="https://github.com/websockets/ws">WS</a> for websockets
+* <a target="_blank" href="https://github.com/angular/angular">Angular</a>
+* <a target="_blank" href="https://github.com/ngrx/platform">NGRX</a> with  <a target="_blank" href="https://github.com/nrwl/nx">NRWL</a>
 * <a target="_blank" href="https://github.com/swimlane/ngx-charts">NGX-Charts</a>
+* <a target="_blank" href="https://github.com/uvd/PyRow">PyRow</a>
 
 Might want a database to store the results too... Eventually.
