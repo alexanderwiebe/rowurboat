@@ -14,4 +14,7 @@ Technologies I plan on using are:
 * <a target="_blank" href="https://github.com/swimlane/ngx-charts">NGX-Charts</a>
 * <a target="_blank" href="https://github.com/uvd/PyRow">PyRow</a>
 
+This has a dependency on the following being installed 
+`sudo apt-get install libusb-1.0-0-dev libudev-dev`
+
 Might want a database to store the results too... Eventually.
