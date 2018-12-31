@@ -3,4 +3,3 @@ Redis
 flask_sockets
 gevent
 gevent-websocket
-pyrow
