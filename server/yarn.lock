@@ -830,9 +830,8 @@ crypto-random-string@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/crypto-random-string/-/crypto-random-string-1.0.0.tgz#a230f64f568310e1498009940790ec99545bca7e"
 
-csafe@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/csafe/-/csafe-0.0.2.tgz#3327cf82a1a8623d45b673de5309d3de3f43ac80"
+"csafe@file:../../node-csafe":
+  version "0.0.1"
 
 cssom@0.3.x, "cssom@>= 0.3.2 < 0.4.0":
   version "0.3.4"
